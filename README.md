@@ -1,1 +1,1 @@
-# Geocoding-project
+# Project mongodb geopartial queries
